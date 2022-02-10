@@ -1,0 +1,7 @@
+num=float(input('enter a number :')) 
+if num>=0:
+Print(" Positive number ") 
+elif num==0:
+Print("Zero") 
+else :
+Print(" Negative number") 
